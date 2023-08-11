@@ -1,2 +1,2 @@
-# curso-git
+# Curso Git
 Curso Git Mastermind
